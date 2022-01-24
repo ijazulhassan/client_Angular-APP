@@ -1,6 +1,6 @@
 # Client
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.15.
+This project was generated to use as the front-end app of our dating API-APP
 
 ## Development server
 
